@@ -1,0 +1,6 @@
+
+********** Jhered ATM Banking **********
+Transaction Type: Deposit
+Amount: ₱10000000.00
+Date & Time: 2025-02-04 22:30:57
+************************************
